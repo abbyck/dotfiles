@@ -1,0 +1,12 @@
+[user]
+	email = me@abhy.me
+	name = Abhinav Krishna C K
+	signingkey = F48A984C8D9BDF75
+[core]
+	editor = vim
+[commit]
+	gpgsign = false
+[gpg]
+	program = gpg2
+[init]
+	defaultBranch = main
